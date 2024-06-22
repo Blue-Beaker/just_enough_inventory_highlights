@@ -2,14 +2,14 @@
 {
   "modid": "jehighlights",
   "name": "Just Enough Highlights",
-  "description": "Doubleclick JEI search bar to Highlight items in inventory matching it!",
+  "description": "Doubleclick JEI search bar to Highlight items matching it!",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
   "authorList": ["Blue_Beaker"],
   "credits": "",
-  "logoFile": "",
+  "logoFile": "icon.png",
   "screenshots": [],
   "dependencies": []
 }
