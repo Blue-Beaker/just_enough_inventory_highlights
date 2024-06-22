@@ -1,13 +1,13 @@
-package io.bluebeaker.examplemod;
+package io.bluebeaker.jehighlights;
 
 import net.minecraftforge.common.config.Config;
 import net.minecraftforge.common.config.Config.Comment;
 import net.minecraftforge.common.config.Config.LangKey;
 import net.minecraftforge.common.config.Config.Type;
 
-@Config(modid = ExampleMod.MODID,type = Type.INSTANCE,category = "general")
-public class ExampleModConfig {
+@Config(modid = JEHighlights.MODID,type = Type.INSTANCE,category = "general")
+public class JEHighlightsConfig {
     @Comment("Example")
-    @LangKey("config.examplemod.example.name")
+    @LangKey("config.jehighlights.example.name")
     public static boolean example = true;
 }
