@@ -7,7 +7,7 @@ import net.minecraftforge.common.config.Config.Type;
 
 @Config(modid = JEHighlights.MODID,type = Type.INSTANCE,category = "general")
 public class JEHighlightsConfig {
-    @Comment("Example")
-    @LangKey("config.jehighlights.example.name")
-    public static boolean example = true;
+    @Comment("Doubleclick interval in milliseconds, to toggle highlight mode.")
+    @LangKey("config.jehighlights.doubleclickinterval.name")
+    public static int doubleclickinterval = 500;
 }

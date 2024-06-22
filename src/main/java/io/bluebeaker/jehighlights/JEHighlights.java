@@ -13,7 +13,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 
-@Mod(modid = JEHighlights.MODID, name = JEHighlights.NAME, version = JEHighlights.VERSION)
+@Mod(modid = JEHighlights.MODID, name = JEHighlights.NAME, version = JEHighlights.VERSION,clientSideOnly = true)
 public class JEHighlights
 {
     public static final String MODID = "jehighlights";

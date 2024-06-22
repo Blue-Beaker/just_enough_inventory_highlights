@@ -1,11 +1,12 @@
 {
     "required": false,
     "compatibilityLevel": "JAVA_8",
-    "package": "io.bluebeaker.jehighlights.mixin",
+    "package": "io.bluebeaker.jehighlights.mixins",
     "mixins": [
 
     ],
     "client": [
+      "MixinGuiTextFieldFilter"
     ],
     "server": [
     ],

@@ -1,14 +1,14 @@
 [
 {
   "modid": "jehighlights",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "name": "Just Enough Highlights",
+  "description": "Doubleclick JEI search bar to Highlight items in inventory matching it!",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["CleanroomMC"],
-  "credits": "Authors of this project",
+  "authorList": ["Blue_Beaker"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
