@@ -1,11 +1,8 @@
 package io.bluebeaker.jehighlights.mixins;
 
-import java.awt.Rectangle;
-
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
-import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
 import io.bluebeaker.jehighlights.JEHighlights;
